@@ -4,6 +4,10 @@
 
 Chat with Resume is an AI-powered web application that allows users to interact with their resumes through various CoAgents. The app leverages the capabilities of CopilotKit and LangGraph to provide a seamless experience in resume evaluation, job tailoring, and interview preparation.
 
+Tweet link
+
+    https://x.com/sayantanpal100/status/1842891246383010206?t=6r6ceic4SreV1AOpdhrDyw&s=35
+
 ## Features
 
 - **Upload and Parse Resumes**: Users can upload their resumes, which will be parsed and made available for chat.
